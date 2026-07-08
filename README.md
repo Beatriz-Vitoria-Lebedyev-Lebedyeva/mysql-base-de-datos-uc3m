@@ -6,7 +6,7 @@ Proyecto académico desarrollado para la asignatura de Bases de Datos de la Univ
 - SQL
 
 ## Contenido
-- `Create_BD.sql` – Creación del esquema de la base de datos.
+- `Create_BD.sql` – Creación de las tablas que modelan la información del sistema, incluyendo claves primarias, claves foráneas y restricciones de integridad.
 - `Insert_BD.sql` – Inserción de datos sintéticos para realizar pruebas.
 - `queries_BD.sql` – Consultas SQL para el análisis y explotación de la información.
 
